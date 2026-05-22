@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 #define P 5
 #define R 3
 
@@ -49,4 +49,3 @@ int main() {
     detect();
     return 0;
 }
-*/
